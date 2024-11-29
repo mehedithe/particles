@@ -385,6 +385,20 @@ export default function Particle() {
                   speed: 1
                 }
               },
+              pauseOnBlur: true,
+              pauseOnOutsideViewport: true,
+              responsive: [],
+              smooth: false,
+              style: {},
+              themes: [],
+              zLayers: 100,
+              emitters: [],
+              motion: {
+                disable: false,
+                reduce: {
+                  factor: 4,
+                  value: true
+                },
             detectRetina: true,
           }
         
