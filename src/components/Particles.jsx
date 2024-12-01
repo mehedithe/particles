@@ -55,7 +55,8 @@ export default function Particle() {
                 value: "#bae6fd",
               },
               links: {
-                color: "#e0f2fe",
+                color: "#d12bff",
+                // color: "#e0f2fe",
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
@@ -89,8 +90,11 @@ export default function Particle() {
               },
             },
             detectRetina: true,
+
+            
+
           }
-        
+           
         }
         />
       )}
